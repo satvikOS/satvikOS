@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/morpheus.svg" alt="Morpheus — ASCII dream study" width="100%">
+  <img src="./assets/morpheus.svg" alt="Morpheus — dreams into reality" width="100%">
 </p>
